@@ -6,4 +6,5 @@ variable "bloop" {
 variable "bleep" {
   type        = number
   description = "just a number"
+  default     = 0
 }
